@@ -1,7 +1,8 @@
 # hello-world
 My First Repository
 
-Step 1. Learn the basics of how to navigate GitHub
-Step 2. Dust off my python
-Step 3. Find an interesting project.
-Step 4. Work on that project.
+Steps: 
+1. Learn the basics of how to navigate GitHub
+2. Dust off my python
+3. Find an interesting project.
+4. Work on that project.
